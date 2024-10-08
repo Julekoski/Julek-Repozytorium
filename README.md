@@ -9,3 +9,5 @@ Nowe modyfikacje
 Robimy kolizje -------------
 
 Problem :(
+
+hehehehshd
