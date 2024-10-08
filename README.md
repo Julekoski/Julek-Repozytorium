@@ -5,3 +5,5 @@ Usuniete repozytorium
 
 ## dopisałem coś tam ~ kolega z Malezji
 Nowe modyfikacje
+
+Robimy kolizje -------------
