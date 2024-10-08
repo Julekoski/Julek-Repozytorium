@@ -7,3 +7,5 @@ Usuniete repozytorium
 Nowe modyfikacje
 
 Robimy kolizje -------------
+
+Problem :(
