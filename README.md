@@ -1,0 +1,2 @@
+# Julek-Repozytorium
+Usuniete repozytorium 
